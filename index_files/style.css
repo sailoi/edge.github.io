@@ -143,7 +143,7 @@ a:hover { text-decoration: none }
 ================================ */
 
 .hero-area {
-    background-image: url(../img/hero-area-bg.jpg);
+    background-image: url(/index_files/hero-area-bg.jpg);
     height: 1080px;
     width: 100%;
     background-size: cover;
